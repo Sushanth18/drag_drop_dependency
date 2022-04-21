@@ -11,7 +11,7 @@ var __extends = (this && this.__extends) || (function () {
         d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
     };
 })();
-import { ComplexBase } from '@syncfusion/ej2-react-base';
+import { ComplexBase } from '../@syncfusion/ej2-react-base';
 /**
  * `PanelsDirective` represent a presets of the react dashboardlayout.
  * It must be contained in a dashboardlayout component(`DashBoardLayoutComponent`).

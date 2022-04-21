@@ -12,8 +12,8 @@ var __extends = (this && this.__extends) || (function () {
     };
 })();
 import * as React from 'react';
-import { Splitter } from '@syncfusion/ej2-layouts';
-import { ComponentBase, applyMixins } from '@syncfusion/ej2-react-base';
+import { Splitter } from '../@syncfusion/ej2-layouts';
+import { ComponentBase, applyMixins } from '../@syncfusion/ej2-react-base';
 /**
  * Represents the React Splitter Component
  * ```html

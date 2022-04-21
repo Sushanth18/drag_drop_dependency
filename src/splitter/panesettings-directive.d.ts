@@ -1,5 +1,5 @@
-import { ComplexBase } from '@syncfusion/ej2-react-base';
-import { PanePropertiesModel } from '@syncfusion/ej2-layouts';
+import { ComplexBase } from '../@syncfusion/ej2-react-base';
+import { PanePropertiesModel } from '../@syncfusion/ej2-layouts';
 export interface PanePropertiesDirTypecast {
     content?: string | Function | any;
 }

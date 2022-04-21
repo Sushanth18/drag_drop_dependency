@@ -12,8 +12,8 @@ var __extends = (this && this.__extends) || (function () {
     };
 })();
 import * as React from 'react';
-import { DashboardLayout } from '@syncfusion/ej2-layouts';
-import { ComponentBase, applyMixins } from '@syncfusion/ej2-react-base';
+import { DashboardLayout } from '../@syncfusion/ej2-layouts';
+import { ComponentBase, applyMixins } from '../@syncfusion/ej2-react-base';
 /**
  * Represents the Essential JS 2 React DashboardLayout Component.
  * ```ts

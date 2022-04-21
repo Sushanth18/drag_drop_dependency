@@ -1,6 +1,6 @@
 import * as React from 'react';
-import { DashboardLayout, DashboardLayoutModel } from '@syncfusion/ej2-layouts';
-import { DefaultHtmlAttributes } from '@syncfusion/ej2-react-base';
+import { DashboardLayout, DashboardLayoutModel } from '../@syncfusion/ej2-layouts';
+import { DefaultHtmlAttributes } from '../@syncfusion/ej2-react-base';
 /**
  * Represents the Essential JS 2 React DashboardLayout Component.
  * ```ts

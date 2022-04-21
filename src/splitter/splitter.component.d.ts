@@ -1,6 +1,6 @@
 import * as React from 'react';
-import { Splitter, SplitterModel } from '@syncfusion/ej2-layouts';
-import { DefaultHtmlAttributes } from '@syncfusion/ej2-react-base';
+import { Splitter, SplitterModel } from '../@syncfusion/ej2-layouts';
+import { DefaultHtmlAttributes } from '../@syncfusion/ej2-react-base';
 /**
  * Represents the React Splitter Component
  * ```html
